@@ -41,7 +41,7 @@ const Projects = () => {
                 </div>
                 <div className="flex flex-col gap-y-4">
                     <h3 className='pt-8 font-bold text-xl'>Gpt3 (Febuary 2023)</h3>
-                    <p className='w-[300px]'>A car rental website is an online platform that allows users to rent cars for personal or business use. The website provides an interface for searching, comparing, and reserving cars.</p>
+                    <p className='w-[300px]'>An Artifitial inteligance website is an online platform that allows users to hire agancies that will help them with ai tools. The website provides an interface for searching, comparing ai tools.</p>
                     <div class="flex gap-x-8">
                         <div className='flex justify-center black-bg p-2 rounded-lg shadow-md w-20 content-center'>
                             <p className='text-lg'>React</p>
